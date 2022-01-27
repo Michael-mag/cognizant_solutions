@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+cognizant.michael.magaisa.solution.egg-info/PKG-INFO
+cognizant.michael.magaisa.solution.egg-info/SOURCES.txt
+cognizant.michael.magaisa.solution.egg-info/dependency_links.txt
+cognizant.michael.magaisa.solution.egg-info/requires.txt
+cognizant.michael.magaisa.solution.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+pytest
+flake8
+black
+setuptools
+openpyxl
+pandas
+numpy
